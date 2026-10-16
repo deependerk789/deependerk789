@@ -1,110 +1,27 @@
-<div align="center">
+# 💫 About Me:
+ Final-year B.Tech student in Cybersecurity.<br>🎓 Final-year B.Tech student in Cybersecurity.<br>🔐 Learning network security, ethical hacking, and web application security.<br>🐍 Interested in Python-based security tools and practical projects.<br>🔭 Currently working on Password Security Toolkit.<br>🤝 Open to collaboration, feedback, and learning from other developers.<br>🎮 I enjoy movies, music, and online games.
 
-# 👋 Hi, I'm Deepender Kumar
 
-### 🛡️ Cybersecurity Student | Python Developer | Security Enthusiast
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/deependerjangra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepender_jangra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deependerkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deependerkumar789@gmail.com) 
 
-Building practical projects, learning network security, and exploring web application security.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=deependerk789&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=deependerk789&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deependerk789&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=deependerk789&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/deependerk789?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deependerk789&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🙋 About Me
-
-- 🎓 Final-year B.Tech student in Cybersecurity.
-- 🔐 Learning network security, ethical hacking, and web application security.
-- 🐍 Interested in Python-based security tools and practical projects.
-- 🔭 Currently working on [Password Security Toolkit](https://github.com/deependerk789/Password-Security-Toolkit).
-- 🤝 Open to collaboration, feedback, and learning from other developers.
-- 🎮 I enjoy movies, music, and online games.
-
-## 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql,linux,aws,git,github,vscode&perline=6" alt="Python, JavaScript, HTML, CSS, Node.js, MySQL, Linux, AWS, Git, GitHub and VS Code" />
-</p>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 Password Security Toolkit</h3>
-      <p>A cybersecurity project focused on password security and safer password practices.</p>
-      <a href="https://github.com/deependerk789/Password-Security-Toolkit">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 MY-DREAMS</h3>
-      <p>Explore this project repository for its source code, features, and development updates.</p>
-      <a href="https://github.com/deependerk789/MY-DREAMS-">View Repository →</a>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=deependerk789&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependerk789&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=deependerk789&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <a href="https://github.com/deependerk789">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deependerk789&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-  </a>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deependerk789&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub profile trophies" width="100%" />
-</div>
-
-## 📦 Profile Overview
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdeependerk789&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=181717" alt="Public repository count" />
-<img src="https://img.shields.io/github/stars/deependerk789?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-<img src="https://img.shields.io/github/followers/deependerk789?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-
-</div>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/deependerkumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/deepender_jangra">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://fb.com/deependerjangra">
-    <img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:deependerk789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deependerk789&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=deependerk789&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-**💡 Learn continuously. Build responsibly. Make technology more secure.**
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
