@@ -1,5 +1,5 @@
 # 💫 About Me:
- Final-year B.Tech student in Cybersecurity.<br>🎓 Final-year B.Tech student in Cybersecurity.<br>🔐 Learning network security, ethical hacking, and web application security.<br>🐍 Interested in Python-based security tools and practical projects.<br>🔭 Currently working on Password Security Toolkit.<br>🤝 Open to collaboration, feedback, and learning from other developers.<br>🎮 I enjoy movies, music, and online games.
+<br>🎓 Final-year B.Tech student in Cybersecurity.<br>🔐 Learning network security, ethical hacking, and web application security.<br>🐍 Interested in Python-based security tools and practical projects.<br>🔭 Currently working on Password Security Toolkit.<br>🤝 Open to collaboration, feedback, and learning from other developers.<br>🎮 I enjoy movies, music, and online games.
 
 
 ## 🌐 Socials:
